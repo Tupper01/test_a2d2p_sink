@@ -1,0 +1,3 @@
+[submodule "components/ma_bt_a2dp/MerusAudio_ESP32_BT"]
+	path = components/ma_bt_a2dp/MerusAudio_ESP32_BT
+	url = https://github.com/Tupper01/MerusAudio_ESP32_BT.git
