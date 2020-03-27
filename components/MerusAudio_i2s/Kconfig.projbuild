@@ -1,0 +1,22 @@
+menu "Merus MA120x0 i2s Configuration"
+
+    
+    config CONFIG_I2S_BCL_PIN
+        int "I2S bit clock pin"
+        default 25
+        help
+            -.
+
+    config CONFIG_I2S_WS_PIN
+        int "I2S word select pin"
+        default 26
+        help
+            -.
+
+    config CONFIG_I2S_SDA_PIN
+        int "I2S serial data pin"
+        default 27
+        help
+            -.
+
+endmenu
